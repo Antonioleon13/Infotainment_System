@@ -1,0 +1,12 @@
+../Core/Src/myprintf.c:10:13:sendUART1char	16	static
+../Core/Src/myprintf.c:19:13:myputchar	16	static
+../Core/Src/myprintf.c:42:13:out	16	static
+../Core/Src/myprintf.c:46:13:outDgt	16	static
+../Core/Src/myprintf.c:51:13:divOut	24	static
+../Core/Src/myprintf.c:62:6:tfp_printf	24	static
+../Core/Src/myprintf.c:142:21:mini_strlen	24	static
+../Core/Src/myprintf.c:149:21:mini_itoa	48	static
+../Core/Src/myprintf.c:197:12:_putc	16	static
+../Core/Src/myprintf.c:206:12:_puts	32	static
+../Core/Src/myprintf.c:221:5:mini_vsnprintf	80	static
+../Core/Src/myprintf.c:289:5:mini_snprintf	24	static
